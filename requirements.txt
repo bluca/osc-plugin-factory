@@ -1,6 +1,5 @@
 PyYAML
 pycurl
-urlgrabber
 pyxdg
 cmdln
 git+https://github.com/openSUSE/osc
