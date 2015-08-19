@@ -1,6 +1,10 @@
 language: python
 python:
   - 2.7
+  - 3.2
+  - 3.3
+  - 3.4
+  - 3.5-dev
 sudo: false
 # command to install dependencies, e.g. pip install -r requirements.txt --use-mirrors
 install:
